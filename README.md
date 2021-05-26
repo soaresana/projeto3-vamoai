@@ -5,7 +5,7 @@ Projeto desenvolvido durante a formação Analista de Dados da Resilia🚀Ifood.
 # Projeto
 Nesse projeto de final de módulo nos foi proposto uma análise de dados da plataforma [Steam](https://store.steampowered.com/?l=portuguese) e a criação de um dashboard utilizando a ferramenta [Metabase](https://www.metabase.com/), que permite fazer perguntas aos dados e exibir em formatos que fazem sentido, seja um gráfico de barra ou uma tabela detalhada.
 
-![](https://cdn.discordapp.com/attachments/842838819640442903/847100595047366727/M0xvpLI.gif)
+![](https://i.imgur.com/yemQUEk.gif)
 
 ## Pré-requisitos
 
