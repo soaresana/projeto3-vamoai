@@ -3,15 +3,15 @@
 Projeto desenvolvido durante a formação Analista de Dados da Resilia🚀Ifood. 
 
 # Projeto
-Nesse projeto de final de módulo nos foi proposto uma análise de dados da plataforma [Steam](https://store.steampowered.com/?l=portuguese) e a criação de um dashboard utilizando a ferramenta [Metabase](https://www.metabase.com/), que permite fazer perguntas aos dados e exibir em formatos que fazem sentido, seja um gráfico de barra ou uma tabela detalhada.
+Neste projeto de final de módulo foi proposta a análise de dados da plataforma [Steam](https://store.steampowered.com/?l=portuguese) e a criação de um dashboard utilizando a ferramenta [Metabase](https://www.metabase.com/), que permite fazer perguntas aos dados e exibir em formatos que facilitem a visualização, seja em um gráfico de barra ou em uma tabela detalhada.
 
 ![](https://i.imgur.com/yemQUEk.gif)
 
 ## Pré-requisitos
 
-Antes de você baixar nosso projeto:
+Antes de baixar nosso projeto:
 
-* Necessário os datasets da steam. `<Disponível/no/Kaggle>` -> [Clean Dataset Steam](https://www.kaggle.com/nikdavis/steam-store-games), [Popularity of games on Steam](https://www.kaggle.com/michau96/popularity-of-games-on-steam).
+* Necessário baixar os datasets da Steam. `<Disponível/no/Kaggle>` -> [Clean Dataset Steam](https://www.kaggle.com/nikdavis/steam-store-games), [Popularity of games on Steam](https://www.kaggle.com/michau96/popularity-of-games-on-steam).
 
 
 
